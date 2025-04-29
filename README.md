@@ -1,1 +1,3 @@
-# odin-recipes
+This project is a basic HTML website that lists different recipes. It consists of a main index page and links to different recipes.
+
+I have demonstrated these skills...
